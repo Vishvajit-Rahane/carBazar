@@ -1,6 +1,6 @@
 package com.JWT_App.payload;
 
-import com.suraj.JWT_App.entity.Users;
+import com.JWT_App.entity.Users;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
