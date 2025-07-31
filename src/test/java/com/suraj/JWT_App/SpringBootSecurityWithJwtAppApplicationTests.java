@@ -1,4 +1,4 @@
-package com.suraj.JWT_App;
+package com.JWT_App;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
